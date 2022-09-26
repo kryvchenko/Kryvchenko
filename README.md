@@ -10,7 +10,6 @@ _________________
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-64/javascript-2752148-2284965.png" alt="JavaScript" width="30" height="30"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/327388/logo-react.svg" alt="React" width="30" height="30"/> </a>
 <a href="https://nodejs.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" alt="NodeJS" width="30" height="32"/> </a> 
-<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://www.edureka.co/blog/content/ver.1554792280/uploads/2019/04/Selenium-logo-QTP-vs-Selenium-Edureka-300x270.png" alt="Selenium Webdriver" width="30" height="30"/> </a>
 <a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://webdriver.io/img/logo-webdriver-io.png" alt="WebdriverIO" width="30" height="30"/> </a>
 <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="https://yt3.ggpht.com/iD0oePTGV8tZwEEP_WEG2rvyNiQAVfmjhawFMCj17ARjjmw-J70k9NDjSE5QTzD9Vk3ayBU=s900-c-k-c0x00ffffff-no-rj" alt="CypressIO" width="30" height="30"/> </a>
 <a href="https://mochajs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-64/mocha-1-1175012.png" alt="Mocha" width="30" height="30"/> </a>
