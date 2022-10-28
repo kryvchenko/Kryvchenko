@@ -18,3 +18,6 @@ _________________
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/jenkins-icon/jenkins-icon-17.jpg" alt="Jenkins" width="30" height="30"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-64/visual-studio-code-3251603-2724650.png" alt="VSCode" width="30" height="30"/> </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-64/postman-3628992-3030217.png" alt="Postman" width="30" height="30"/> </a>
+
+
+[![JS GitHub stats](https://github-readme-stats.vercel.app/api?username=Kryvchenko)](https://github.com/anuraghazra/github-readme-stats)
