@@ -20,4 +20,3 @@ _________________
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-64/postman-3628992-3030217.png" alt="Postman" width="30" height="30"/> </a>
 
 
-[![JS GitHub stats](https://github-readme-stats.vercel.app/api?username=Kryvchenko)](https://github.com/anuraghazra/github-readme-stats)
