@@ -1,6 +1,6 @@
 # Hi, my name is Oleksandr Kryvchenko 
 _________________
-## I am a front-end developer versed in HTML, CSS, JavaScript, and React with extensive automation testing skills. I think outside the box in order to come up with solutions alone and alongside a team. Have a strong creative side, which helps me be thoughtful about design and ways to make my projects user-friendly.
+## I am a automation testing specialist with extensive developer`s skills, using Cypress, WebdriverIO, Playwright, Postman, Jenkins, Selenium, TeamCity versed in HTML, CSS, JavaScript, and React. I think outside the box in order to come up with solutions alone and alongside a team. Have a strong creative side, which helps me be thoughtful about design and ways to make my projects user-friendly.
 _________________
 ### My linkedIn  <a href="https://www.linkedin.com/in/oleksandr-kryvchenko/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-64/linkedin-2752135-2284952.png" alt="Oleksandr Kryvchenko" height="30" width="30" /></a>
 
