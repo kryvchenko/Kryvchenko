@@ -1,6 +1,6 @@
 # Hi, my name is Oleksandr Kryvchenko 
 _________________
-## I am a automation testing specialist with extensive software development skills, using Cypress, WebdriverIO, Playwright, Postman, Jenkins, Selenium, TeamCity versed in HTML, CSS, JavaScript, and React. I think outside the box in order to come up with solutions alone and alongside a team. Have a strong creative side, which helps me be thoughtful about design and ways to make my projects user-friendly.
+## Passionate test automation specialist with extensive web development skills, and practical experience in functional and non-functional testing competent in using evaluation tools and defect tracking systems. Possesses a good understanding of the Software Development and Software Testing Life Cycles and knowledge of different SDLC models. Presents the ability to effectively respond to the changes of dynamic work processes within Agile methodologies.
 _________________
 ### My linkedIn  <a href="https://www.linkedin.com/in/oleksandr-kryvchenko/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-64/linkedin-2752135-2284952.png" alt="Oleksandr Kryvchenko" height="30" width="30" /></a>
 
