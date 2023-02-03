@@ -1,6 +1,8 @@
 # Hi, my name is Oleksandr Kryvchenko 
 _________________
-## Passionate test automation specialist with extensive web development skills, and practical experience in functional and non-functional testing competent in using evaluation tools and defect tracking systems. Possesses a good understanding of the Software Development and Software Testing Life Cycles and knowledge of different SDLC models. Presents the ability to effectively respond to the changes of dynamic work processes within Agile methodologies.
+## As a passionate test automation specialist, I bring both my extensive web development skills and practical experience in functional and non-functional testing. My expertise in using evaluation tools and defect-tracking systems has allowed me to deliver high-quality software products. I have a solid understanding of Software Development and Software Testing Life Cycles. My ability to effectively respond to changing work processes within Agile methodologies sets me apart as a flexible and adaptable team player.
+
+In addition to my technical skills, I have honed my interpersonal and problem-solving skills through my previous work experiences in hospitality and sales. I am known for my excellent planning and organizational abilities, and my ability to effectively prioritize and manage multiple tasks. Whether working independently or as part of a team, I am committed to delivering results and exceeding expectations.
 _________________
 ### My linkedIn  <a href="https://www.linkedin.com/in/oleksandr-kryvchenko/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-64/linkedin-2752135-2284952.png" alt="Oleksandr Kryvchenko" height="30" width="30" /></a>
 
