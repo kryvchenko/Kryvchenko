@@ -21,5 +21,8 @@ _________________
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-64/visual-studio-code-3251603-2724650.png" alt="VSCode" width="30" height="30"/> </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-64/postman-3628992-3030217.png" alt="Postman" width="30" height="30"/> </a>
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://selenium-python.readthedocs.io/_static/logo.png" alt="Selenium" width="30" height="30"/> </a>
+<a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5815/5815886.png" alt="SQL" width="30" height="30"/> </a>
+<a href="https://www.playwright.dev" target="_blank" rel="noreferrer"> <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="30" height="30"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20181128/cbr/kisspng-python-programming-basics-for-absolute-beginners-michigan-python-user-group-5-jul-2-18-5bfef921c53528.7857216715434365778078.jpg" alt="Python" width="30" height="30"/> </a>
 
 
