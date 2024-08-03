@@ -1,6 +1,6 @@
 # Hi, my name is Oleksandr Kryvchenko 
 _________________
-## As a passionate test automation specialist, I bring both my extensive web development skills and practical experience in functional and non-functional testing. My expertise in using evaluation tools and defect-tracking systems has allowed me to deliver high-quality software products. I have a solid understanding of Software Development and Software Testing Life Cycles. My ability to effectively respond to changing work processes within Agile methodologies sets me apart as a flexible and adaptable team player.
+## As a passionate test automation specialist, I bring both my extensive web development skills and practical experience in functional and non-functional testing, including security testing and performance testing. My expertise in using evaluation tools and defect-tracking systems has allowed me to deliver high-quality software products. I have a solid understanding of Software Development and Software Testing Life Cycles. My ability to effectively respond to changing work processes within Agile methodologies sets me apart as a flexible and adaptable team player.
 
 ## In addition to my technical skills, I have honed my interpersonal and problem-solving skills through my previous work experiences in hospitality and sales. I am known for my excellent planning and organizational abilities, and my ability to effectively prioritize and manage multiple tasks. Whether working independently or as part of a team, I am committed to delivering results and exceeding expectations.
 _________________
@@ -24,5 +24,6 @@ _________________
 <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5815/5815886.png" alt="SQL" width="30" height="30"/> </a>
 <a href="https://www.playwright.dev" target="_blank" rel="noreferrer"> <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="30" height="30"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20181128/cbr/kisspng-python-programming-basics-for-absolute-beginners-michigan-python-user-group-5-jul-2-18-5bfef921c53528.7857216715434365778078.jpg" alt="Python" width="30" height="30"/> </a>
+<a href="https://portswigger.net/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/286/446/png-transparent-burp-suite-macos-bigsur-icon-thumbnail.png" alt="Burp" width="30" height="30"/> </a>
 
 
