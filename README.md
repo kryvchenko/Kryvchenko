@@ -1,4 +1,4 @@
-# Hi, my name is Olek Kryo
+# Hi, my name is Oleks Kryo
 _________________
 As a passionate test automation specialist, I bring both my extensive web development skills and practical experience in functional and non-functional testing, including security testing and performance testing. My expertise in using evaluation tools and defect-tracking systems has allowed me to deliver high-quality software products. I have a solid understanding of Software Development and Software Testing Life Cycles. My ability to effectively respond to changing work processes within Agile methodologies sets me apart as a flexible and adaptable team player.
 
