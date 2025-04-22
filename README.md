@@ -13,7 +13,7 @@ My linkedIn  <a href="https://www.linkedin.com/in/oleksandr-kryvchenko/" target=
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/327388/logo-react.svg" alt="React" width="30" height="30"/> </a>
 <a href="https://nodejs.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" alt="NodeJS" width="30" height="32"/> </a> 
 <a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://webdriver.io/img/logo-webdriver-io.png" alt="WebdriverIO" width="30" height="30"/> </a>
-<a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="https://yt3.ggpht.com/iD0oePTGV8tZwEEP_WEG2rvyNiQAVfmjhawFMCj17ARjjmw-J70k9NDjSE5QTzD9Vk3ayBU=s900-c-k-c0x00ffffff-no-rj" alt="CypressIO" width="30" height="30"/> </a>
+<a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="https://www.cypress.io/cypress_logo_social.png" alt="CypressIO" width="30" height="30"/> </a>
 <a href="https://mochajs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-64/mocha-1-1175012.png" alt="Mocha" width="30" height="30"/> </a>
 <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlLRYIFxJ1UZDgQSQZ1kR47NuzaHdB0bQtmYwnfyLvmQ&s" alt="ChaiJS" width="30" height="30"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/git-icon/git-icon-6.jpg" alt="Git" width="30" height="30"/> </a>
