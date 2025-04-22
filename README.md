@@ -4,7 +4,6 @@ As a passionate test automation specialist, I bring both my extensive web develo
 
 In addition to my technical skills, I have honed my interpersonal and problem-solving skills through my previous work experiences in hospitality and sales. I am known for my excellent planning and organizational abilities, and my ability to effectively prioritize and manage multiple tasks. Whether working independently or as part of a team, I am committed to delivering results and exceeding expectations.
 _________________
-My linkedIn  <a href="https://www.linkedin.com/in/oleksandr-kryvchenko/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-64/linkedin-2752135-2284952.png" alt="Oleksandr Kryvchenko" height="30" width="30" /></a>
 
 ### My skills:
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-64/html-3628838-3030115.png" alt="HTML" width="30" height="30"/> </a> 
