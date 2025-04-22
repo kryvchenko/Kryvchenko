@@ -23,7 +23,7 @@ My linkedIn  <a href="https://www.linkedin.com/in/oleksandr-kryvchenko/" target=
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://selenium-python.readthedocs.io/_static/logo.png" alt="Selenium" width="30" height="30"/> </a>
 <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5815/5815886.png" alt="SQL" width="30" height="30"/> </a>
 <a href="https://www.playwright.dev" target="_blank" rel="noreferrer"> <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="30" height="30"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20181128/cbr/kisspng-python-programming-basics-for-absolute-beginners-michigan-python-user-group-5-jul-2-18-5bfef921c53528.7857216715434365778078.jpg" alt="Python" width="30" height="30"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/logo-python-icon-506x512-t38ct41x.png" alt="Python" width="30" height="30"/> </a>
 <a href="https://portswigger.net/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/286/446/png-transparent-burp-suite-macos-bigsur-icon-thumbnail.png" alt="Burp" width="30" height="30"/> </a>
 
 
